@@ -1,0 +1,7 @@
+1.0 - Baixar todo conteúdo necessário.
+instalar as ferramentas e configurar tudo para programar em C#.
+Visual Studio Code
+CSC, Adicionar em variaveis e ambiemtes o path.
+
+1.1 - Estrutura Basica
+
