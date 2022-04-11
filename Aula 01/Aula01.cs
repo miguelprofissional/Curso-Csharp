@@ -2,9 +2,15 @@ using System;
 
 class Principal {
 
-    static void Main (){
+    static void Main (string[]args);
+    
+    {
 
-        Console.Write ("Olá Mundo...");
+        Console.WriteLine ("DIEGO SILVA");
+        Console.WriteLine (args.GetValue(0));
+            
+        
+
         
     }
 }

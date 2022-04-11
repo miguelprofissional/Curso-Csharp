@@ -1,0 +1,6 @@
+Aula 02 - Curso Programação Completo C# - Primeiro programa no padrão c# .net
+
+Link no GIT
+
+https://github.com/miguelprofissional/Curso-Csharp.git
+

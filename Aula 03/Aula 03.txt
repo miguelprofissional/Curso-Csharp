@@ -1,0 +1,17 @@
+Aula 03 - Variáveis - Curso Programação Completo C#
+
+
+
+Variáveis
+
+Tipos de dados
+
+Criar uma variável
+
+Atribuir Valor 
+
+Ler o valor armazenado na variável
+
+
+
+https://github.com/miguelprofissional/Curso-Csharp
