@@ -1,0 +1,12 @@
+C# é uma linguagem de programação, multiparadigma, desenvolvida pela Microsoft como parte da plataforma .NET. 
+A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação
+como Java.
+
+Nosso curso de C# será dividido em duas grandes partes
+
+Primeira parte iremos aprender toda lógica de programação 
+usando a linguagem C# no Visual Studio Code, 
+
+Segunda parte iremos partir para a parte gráfica, 
+usando o Visual Studio Community para criar programar no padrão Windows, 
+com formulários, botões, elementos interativos, relatórios e banco de dados.

@@ -3,5 +3,8 @@ instalar as ferramentas e configurar tudo para programar em C#.
 Visual Studio Code
 CSC, Adicionar em variaveis e ambiemtes o path.
 
-1.1 - Estrutura Basica
+
+Link no GIT
+
+https://github.com/miguelprofissional/Curso-Csharp.git
 
