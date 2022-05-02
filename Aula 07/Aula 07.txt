@@ -1,7 +1,7 @@
-Aula 06 - Formatando a saída no console - Curso Programação Completo C#
+Aula 07 - Constantes em C# - Curso Programação Completo C#
 
 Github - https://github.com/miguelprofissional/Curso-Csharp.git
 
 Linkedln - www.linkedin.com/in/diegosilva1984
 
-https://youtu.be/BVNhK3lQyww
+https://youtu.be/y5M_9AfhLs4
