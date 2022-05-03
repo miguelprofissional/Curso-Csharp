@@ -1,0 +1,7 @@
+Aula 09 - Operações de Bitwise - Curso Programação Completo C#
+
+Github - https://github.com/miguelprofissional/Curso-Csharp.git
+
+Linkedln - www.linkedin.com/in/diegosilva1984
+
+https://youtu.be/Br1M23Qphmw
